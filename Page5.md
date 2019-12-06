@@ -1,4 +1,4 @@
-### Here are a few pictures
+## Here are a few pictures
 
 ![Baker Mayfield](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQnDhmchJmTG8Pwf0NGA0i8iD4miWcD8BJF1hJvXGa6xsnw0Utw&s)
 
