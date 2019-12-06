@@ -2,9 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-   <title>This is my Block of Code</title>
-</head>
 
 <body>
 <h1>Ryan's Code</>
