@@ -4,4 +4,5 @@
 
 ![Kyler Murray](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwie2rrc-KHmAhVRVK0KHTmMA8gQjRx6BAgBEAQ&url=https%3A%2F%2Fthefootballbrainiacs.com%2F100-days-to-football-time-in-oklahoma-1-kyler-murray&psig=AOvVaw002n7U2Lox6z2lPSnlO7t-&ust=1575753309541797)
 
-![Jalen Hurts](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwij9_jL-aHmAhUNWa0KHYRiDccQjRx6BAgBEAQ&url=https%3A%2F%2Fsoonersports.com%2Froster.aspx%3Frp_id%3D3537&psig=AOvVaw3jgx0GksfciKd17YocKYdx&ust=1575753552157732)
+![Jalen Hurts](https://dbukjj6eu5tsf.cloudfront.net/soonersports.com/images/2019/9/30/20190928_TexasTech_Hurts_JG_23_WEB.jpg)
+
