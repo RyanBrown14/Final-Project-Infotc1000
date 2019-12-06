@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>This is the the Title for My Block of Code</title>
+   <title>This is the the title for My Block of Code</title>
   </head>
 
 <body>
