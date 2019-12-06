@@ -6,3 +6,7 @@
 
 ![Jalen Hurts](https://dbukjj6eu5tsf.cloudfront.net/soonersports.com/images/2019/9/30/20190928_TexasTech_Hurts_JG_23_WEB.jpg)
 
+
+##### Link to Return to First Page
+[Back to First Page](README.md)
+
