@@ -4,8 +4,8 @@
 <html>
 
 <body>
-<h1>Ryan's Code</>
-<p>Ryan can code now</>
+<h1>Ryan's Code</h1>
+<p>This is an example of a block of code</p>
 </body>
 
 </html>
